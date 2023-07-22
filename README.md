@@ -1,2 +1,2 @@
-# database
+# Distalk
 Distalk comments database
